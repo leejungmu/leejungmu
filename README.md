@@ -5,7 +5,7 @@
 ## Work experiences 
 - 2018.02~ Principal Engineer at TWIM corp.
 
-## Interests
+## Interest
 
 <!--
 **leejungmu/leejungmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
