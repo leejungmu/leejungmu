@@ -6,7 +6,7 @@
 - 2018.02~ Principal Engineer at TWIM corp.
 
 ## Interests
-
+ - Data Science
 <!--
 **leejungmu/leejungmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
