@@ -5,7 +5,7 @@
 ## Work experiences 
 - 2018.02~ Principal Engineer at TWIM corp.
 
-## Interests
+## Interest
  - Data Science
  - Deep Learning
  - Machine Learning
