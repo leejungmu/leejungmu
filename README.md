@@ -8,8 +8,7 @@
 - 2018.02~Present   **Project Manager**   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;
-  발전소 빅데이터 기반 최적 혼탄 인공지능 기술 및 운영 시스템 개발, 
-
+  발전소 빅데이터 기반 최적 혼탄 인공지능 기술 및 운영 시스템 개발, 중소벤처기업부   
 - 2018.06~Present   **Big Data Team Leader**   
 - 2018.02~Present   **Principal Engineer** at TWIM corp.   
 - 2018.05~2018.09   **Project Manager**   
