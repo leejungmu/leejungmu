@@ -13,7 +13,7 @@
 - 2018.05~2018.09   **Project Manager**   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;
-  Vision Inspection of Automobile Parts through Development of Deep Learning Algorithm   
+  AI Vision Inspection of Automobile Parts through Development of Deep Learning Algorithm   
 - 2018.02~Present   **Principal Engineer** at TWIM corp.   
 
 ## Interests
