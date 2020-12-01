@@ -5,12 +5,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejungmu&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Work experiences 
+- 2018.02~Present   **Project Manager**   
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  발전소 빅데이터 기반 최적 혼탄 인공지능 기술 및 운영 시스템 개발, 
+
+- 2018.06~Present   **Big Data Team Leader**   
 - 2018.02~Present   **Principal Engineer** at TWIM corp.   
-- 2018.06~Present   **Big Data Team Leader** 
 - 2018.05~2018.09   **Project Manager**   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;
-Vision Inspection of Automobile Parts through Development of Deep Learning Algorithm
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
+  Vision Inspection of Automobile Parts through Development of Deep Learning Algorithm
 
 ## Interests
  - Data Science
