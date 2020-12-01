@@ -6,7 +6,7 @@
 
 ## Work experiences 
 - 2018.02~ **Principal Engineer** at TWIM corp.
-- 2018.05~2018.09 **Project Manager**
+- 2018.05~2018.09 **Project Manager**   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
 Vision Inspection of Automobile Parts through Development of Deep Learning Algorithm
