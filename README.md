@@ -5,8 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leejungmu&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Work experiences 
-- 2018.02~ #Principal Engineer at TWIM corp.
-- 2018.05~2018.09 #Project Manager   
+- 2018.02~ **Principal Engineer** at TWIM corp.
+- 2018.05~2018.09 **Project Manager**
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
 Vision Inspection of Automobile Parts through Development of Deep Learning Algorithm
