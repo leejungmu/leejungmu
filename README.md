@@ -9,7 +9,7 @@
 - 2018.05~2018.09 Project Manager   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
-Vision Inspection of Automobile Parts though Development of Deep Learning Algorithm
+Vision Inspection of Automobile Parts through Development of Deep Learning Algorithm
 
 ## Interests
  - Data Science
