@@ -8,7 +8,7 @@
 - 2018.02~ Principal Engineer at TWIM corp.
 - 2018.05~2018.09 Project Manager   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 Vision Inspection of Automobile Parts though Development of Deep Learning Algorithm
 
 ## Interests
