@@ -17,7 +17,7 @@
   AI Vision Inspection of Automobile Parts through Development of Deep Learning Algorithm   
 - 2018.02~2020.12   **Principal Engineer** at TWIM corp.   
 
-## Interests
+## Interest
  - Data Science
  - Deep Learning
  - Machine Learning
